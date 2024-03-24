@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.textField {
+  border-radius: 10px;
+  display: block;
+  width: 200px;
+  height: 25px;
+  margin: 5px auto;
+
+}
+
+.container {
+  background-color: #217d78;
+  text-align: center;
+  width: 250px;
+  margin: 200px auto;
+  height: 175px;
+  box-shadow: 6px 6px 15px 0px;
+}
