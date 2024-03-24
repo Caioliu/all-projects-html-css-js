@@ -1,3 +1,6 @@
 [submodule "exercise-software-quality"]
 	path = exercise-software-quality
 	url = https://github.com/Caioliu/exercise-software-quality.git
+[submodule "CoffeeShop"]
+	path = CoffeeShop
+	url = https://github.com/joaokoa/CoffeeShop.git
