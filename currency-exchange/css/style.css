@@ -1,0 +1,24 @@
+body {
+  height: 100%;
+  width: 100%;
+  background: #ffffff;
+}
+
+.main{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card{
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+  
+}
+
+input{
+  border-radius: 7px;
+  border-shadow: none;
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Coin Converter</title>
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="main">
+    <h2>Currency Exchanger</h2>
+    <div class="card">
+
+      <label for="moeda1">Digite o código da moeda de origem (ex: USD):</label>
+      <input id="moeda1" class="txt-input" placeholder="Ex: USD" type="text">
+
+      <label for="moeda2">Digite o código da moeda de destino (ex: BRL):</label>
+      <input id="moeda2" class="txt-input" placeholder="Ex: BRL" type="text">
+
+      <label for="amount">Digite a quantidade para a conversão:</label>
+      <input id="amount" class="txt-input" placeholder="Ex: 5" type="number">
+
+      <button id="btn-busca" type="submit" onclick="compararMoedas();">Realizar Conversão</button>
+    </div><!-- Card div -->
+
+    <div id="resultado">
+      <!-- Aqui será exibido o resultado da conversão -->
+    </div><!-- Result div -->
+  </div> <!-- Main div -->
+</body>
+
+
+</html>
