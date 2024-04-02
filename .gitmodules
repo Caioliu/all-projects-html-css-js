@@ -13,3 +13,6 @@
 [submodule "ConcretAapp"]
 	path = ConcretAapp
 	url = https://github.com/ArthurTRocha/ConcretAapp.git
+[submodule "gmc"]
+	path = gmc
+	url = https://github.com/ArthurTRocha/gmc.git
