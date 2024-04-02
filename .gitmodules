@@ -4,3 +4,12 @@
 [submodule "CoffeeShop"]
 	path = CoffeeShop
 	url = https://github.com/joaokoa/CoffeeShop.git
+[submodule "Fastplay"]
+	path = Fastplay
+	url = https://github.com/ArthurTRocha/Fastplay.git
+[submodule "Original_Paineis"]
+	path = Original_Paineis
+	url = https://github.com/ArthurTRocha/Original_Paineis.git
+[submodule "ConcretAapp"]
+	path = ConcretAapp
+	url = https://github.com/ArthurTRocha/ConcretAapp.git
