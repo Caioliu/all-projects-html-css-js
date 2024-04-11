@@ -22,3 +22,6 @@
 [submodule "All-Boro-Tours-Painel"]
 	path = All-Boro-Tours-Painel
 	url = https://github.com/luisf-franca/All-Boro-Tours-Painel.git
+[submodule "prototype-login-register-arqtool"]
+	path = prototype-login-register-arqtool
+	url = https://github.com/Caioliu/prototype-login-register-arqtool.git
