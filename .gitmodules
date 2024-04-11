@@ -16,3 +16,9 @@
 [submodule "gmc"]
 	path = gmc
 	url = https://github.com/ArthurTRocha/gmc.git
+[submodule "All-Boro-Tours-Web"]
+	path = All-Boro-Tours-Web
+	url = https://github.com/luisf-franca/All-Boro-Tours-Web.git
+[submodule "All-Boro-Tours-Painel"]
+	path = All-Boro-Tours-Painel
+	url = https://github.com/luisf-franca/All-Boro-Tours-Painel.git
